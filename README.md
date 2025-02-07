@@ -1,8 +1,8 @@
 # Chocolate-Product-Lines
 Sales Analysis On Chocolate Product Lines
-# Project Overview/Objective
+## Project Overview/Objective
 This project involves a comprehensive sales analysis of chocolate product lines, focusing on product categories and salesperson performance. The analysis provides insights into total boxes shipped, total sales, profits, and regional performance.
-# Business Requirements
+## Business Requirements
 1.Chocolate Sales Analytics(Overall Sales Analysis)
 
 2.Sales,Boxes,Profits&Costs(Total sales,Total profits,Total costs,Total shipments)
@@ -12,12 +12,12 @@ This project involves a comprehensive sales analysis of chocolate product lines,
 4.Low Box Shipment Analysis(LBS count,LBS%)
 
 5.MoM/YoY Changes(its effect on Sales)
-# Tools & Techniques
+## Tools & Techniques
 --->Excel
 --->Power Query
 --->DAX 
 --->Power BI
-# Key Metrices
+## Key Metrices
 1.Shipments
 
 2.Sales
@@ -29,7 +29,7 @@ This project involves a comprehensive sales analysis of chocolate product lines,
 5.Segments
 
 6.Sales persons
-# Approaches Followed
+## Approaches Followed
 --> Data Wrangling
 
 --> Data Modelling
@@ -37,7 +37,7 @@ This project involves a comprehensive sales analysis of chocolate product lines,
 --> Feature Engineering
 
 --> Exploratory Data Analysis
-# Insights/Observations
+## Insights/Observations
 Identified top-performing chocolate categories.
 
 Evaluated sales performance by salesperson and region, highlighting areas for growth.
